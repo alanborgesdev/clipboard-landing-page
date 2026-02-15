@@ -33,7 +33,7 @@ O projeto foi desenvolvido utilizando abordagem mobile-first e adaptado para:
 
 ## 🚀 Deploy
 
-🔗 [Acesse o projeto online aqui](LINK_AQUI)
+🔗 [Acesse o projeto online aqui](https://alanborgesdev.github.io/clipboard-landing-page/)
 
 ---
 
